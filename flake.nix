@@ -3,7 +3,7 @@
 
     outputs = {...}: {
         php = {
-            path = "./php";
+            path = ./php;
             description = "Minimal PHP environment";
         };
     };
