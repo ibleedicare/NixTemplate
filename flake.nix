@@ -14,5 +14,9 @@
             path = ./python;
             description = "Minimal python environment";
         };
+        rust = {
+            path = ./rust;
+            description = "Minimal rust environment";
+        };
     };
 }
